@@ -70,6 +70,7 @@ public class SpringbuckDemoApplication implements  WebMvcConfigurer{
     return builder -> {
       builder.indentOutput(true);
       builder.timeZone(TimeZone.getTimeZone("Asia/Shanghai"));// 这里的时区应该是要+800
+    log.info("sds");
     };
   }
 //    Coffee espresso = Coffee.builder()
