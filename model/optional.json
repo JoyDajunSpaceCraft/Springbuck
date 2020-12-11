@@ -1,0 +1,405 @@
+{
+  "categoryNumber": 231,
+  "name": "Add-ins",
+  "attributes": {
+    "unitOfMeasure": null
+  },
+  "products": [],
+  "children": [
+    {
+      "categoryNumber": 236,
+      "name": "Creamer",
+      "attributes": {
+        "unitOfMeasure": null
+      },
+      "products": [
+        {
+          "productNumber": 50,
+          "form": {
+            "name": "Splash of 2% Milk",
+            "formCode": "modifier",
+            "availability": "Available",
+            "sizes": [
+              {
+                "sizeCode": "extra",
+                "name": "Extra Splash of 2% Milk",
+                "sku": "11002147"
+              },
+              {
+                "sizeCode": "light",
+                "name": "Light Splash of 2% Milk",
+                "sku": "11002148"
+              },
+              {
+                "sizeCode": "no",
+                "name": "No Splash of 2% Milk",
+                "sku": "11091954"
+              },
+              {
+                "sizeCode": "regular",
+                "name": "Splash of 2% Milk",
+                "sku": "11002146"
+              }
+            ]
+          }
+        },
+        {
+          "productNumber": 2121966,
+          "form": {
+            "name": "Splash of Almondmilk",
+            "formCode": "modifier",
+            "availability": "Available",
+            "sizes": [
+              {
+                "sizeCode": "extra",
+                "name": "Extra Splash of Almondmilk",
+                "sku": "11068717"
+              },
+              {
+                "sizeCode": "light",
+                "name": "Light Splash of Almondmilk",
+                "sku": "11068715"
+              },
+              {
+                "sizeCode": "regular",
+                "name": "Splash of Almondmilk",
+                "sku": "11068714"
+              }
+            ]
+          }
+        },
+        {
+          "productNumber": 873068665,
+          "form": {
+            "name": "Splash of Coconutmilk",
+            "formCode": "modifier",
+            "availability": "Available",
+            "sizes": [
+              {
+                "sizeCode": "extra",
+                "name": "Extra Splash of Coconutmilk",
+                "sku": "11042138"
+              },
+              {
+                "sizeCode": "light",
+                "name": "Light Splash of Coconutmilk",
+                "sku": "11042137"
+              },
+              {
+                "sizeCode": "no",
+                "name": "No Splash of Coconutmilk",
+                "sku": "11042139"
+              },
+              {
+                "sizeCode": "regular",
+                "name": "Splash of Coconutmilk",
+                "sku": "11043291"
+              }
+            ]
+          }
+        },
+        {
+          "productNumber": 198,
+          "form": {
+            "name": "Splash of Cream (Half & Half)",
+            "formCode": "modifier",
+            "availability": "Available",
+            "sizes": [
+              {
+                "sizeCode": "extra",
+                "name": "Extra Splash of Cream (Half & Half)",
+                "sku": "182530"
+              },
+              {
+                "sizeCode": "light",
+                "name": "Light Splash of Cream (Half & Half)",
+                "sku": "182529"
+              },
+              {
+                "sizeCode": "regular",
+                "name": "Splash of Cream (Half & Half)",
+                "sku": "111806"
+              }
+            ]
+          }
+        },
+        {
+          "productNumber": 53,
+          "form": {
+            "name": "Splash of Heavy Cream",
+            "formCode": "modifier",
+            "availability": "Available",
+            "sizes": [
+              {
+                "sizeCode": "extra",
+                "name": "Extra Splash of Heavy Cream",
+                "sku": "11002159"
+              },
+              {
+                "sizeCode": "light",
+                "name": "Light Splash of Heavy Cream",
+                "sku": "11002160"
+              },
+              {
+                "sizeCode": "regular",
+                "name": "Splash of Heavy Cream",
+                "sku": "11002158"
+              }
+            ]
+          }
+        },
+        {
+          "productNumber": 199,
+          "form": {
+            "name": "Splash of Nonfat Milk",
+            "formCode": "modifier",
+            "availability": "Available",
+            "sizes": [
+              {
+                "sizeCode": "extra",
+                "name": "Extra Splash of Nonfat Milk",
+                "sku": "11002144"
+              },
+              {
+                "sizeCode": "light",
+                "name": "Light Splash of Nonfat Milk",
+                "sku": "11002145"
+              },
+              {
+                "sizeCode": "regular",
+                "name": "Splash of Nonfat Milk",
+                "sku": "11002142"
+              }
+            ]
+          }
+        },
+        {
+          "productNumber": 52,
+          "form": {
+            "name": "Splash of Soymilk",
+            "formCode": "modifier",
+            "availability": "Available",
+            "sizes": [
+              {
+                "sizeCode": "extra",
+                "name": "Extra Splash of Soymilk",
+                "sku": "11002153"
+              },
+              {
+                "sizeCode": "light",
+                "name": "Light Splash of Soymilk",
+                "sku": "11002154"
+              },
+              {
+                "sizeCode": "regular",
+                "name": "Splash of Soymilk",
+                "sku": "11002152"
+              }
+            ]
+          }
+        },
+        {
+          "productNumber": 51,
+          "form": {
+            "name": "Splash of Whole Milk",
+            "formCode": "modifier",
+            "availability": "Available",
+            "sizes": [
+              {
+                "sizeCode": "extra",
+                "name": "Extra Splash of Whole Milk",
+                "sku": "11002140"
+              },
+              {
+                "sizeCode": "light",
+                "name": "Light Splash of Whole Milk",
+                "sku": "11002141"
+              },
+              {
+                "sizeCode": "regular",
+                "name": "Splash of Whole Milk",
+                "sku": "11002139"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "categoryNumber": 237,
+      "name": "Sweetener Packets",
+      "attributes": {
+        "unitOfMeasure": "packet(s)"
+      },
+      "products": [
+        {
+          "productNumber": 55,
+          "form": {
+            "name": "Honey Packet",
+            "formCode": "qty",
+            "availability": "Available",
+            "sizes": [
+              {
+                "sizeCode": "add",
+                "name": "Honey Packet",
+                "sku": "115320"
+              },
+              {
+                "sizeCode": "no",
+                "name": "No Honey Packet",
+                "sku": "11116592"
+              }
+            ]
+          }
+        },
+        {
+          "productNumber": 56,
+          "form": {
+            "name": "Splenda®",
+            "formCode": "qty",
+            "availability": "Available",
+            "sizes": [
+              {
+                "sizeCode": "add",
+                "name": "Splenda®",
+                "sku": "186842"
+              }
+            ]
+          }
+        },
+        {
+          "productNumber": 2122028,
+          "form": {
+            "name": "Whole Earth® Stevia w/ Monk Fruit",
+            "formCode": "qty",
+            "availability": "Available",
+            "sizes": [
+              {
+                "sizeCode": "add",
+                "name": "Whole Earth® Stevia w/ Monk Fruit",
+                "sku": "11068850"
+              }
+            ]
+          }
+        },
+        {
+          "productNumber": 57,
+          "form": {
+            "name": "Sugar",
+            "formCode": "qty",
+            "availability": "Available",
+            "sizes": [
+              {
+                "sizeCode": "add",
+                "name": "Sugar",
+                "sku": "109894"
+              }
+            ]
+          }
+        },
+        {
+          "productNumber": 58,
+          "form": {
+            "name": "Sugar in the Raw®",
+            "formCode": "qty",
+            "availability": "Available",
+            "sizes": [
+              {
+                "sizeCode": "add",
+                "name": "Sugar in the Raw®",
+                "sku": "110016"
+              }
+            ]
+          }
+        },
+        {
+          "productNumber": 59,
+          "form": {
+            "name": "Saccharin (pink)",
+            "formCode": "qty",
+            "availability": "Available",
+            "sizes": [
+              {
+                "sizeCode": "add",
+                "name": "Saccharin (pink)",
+                "sku": "109895"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "categoryNumber": 47600074,
+      "name": "Liquid Sweetener",
+      "attributes": {
+        "unitOfMeasure": null
+      },
+      "products": [
+        {
+          "productNumber": 2123154,
+          "form": {
+            "name": "Honey Blend",
+            "formCode": "qty",
+            "availability": "Available",
+            "sizes": [
+              {
+                "sizeCode": "add",
+                "name": "Honey Blend",
+                "sku": "11112416"
+              },
+              {
+                "sizeCode": "sub",
+                "name": "Substitute Honey Blend",
+                "sku": "11112417"
+              },
+              {
+                "sizeCode": "no",
+                "name": "No Honey Blend",
+                "sku": "11112415"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "categoryNumber": 234,
+      "name": "Room",
+      "attributes": {
+        "unitOfMeasure": null
+      },
+      "products": [
+        {
+          "productNumber": 74,
+          "form": {
+            "name": "Room",
+            "formCode": "modifier",
+            "availability": "Available",
+            "sizes": [
+              {
+                "sizeCode": "extra",
+                "name": "Extra Room",
+                "sku": "110241"
+              },
+              {
+                "sizeCode": "light",
+                "name": "Light Room",
+                "sku": "183455"
+              },
+              {
+                "sizeCode": "no",
+                "name": "No Room",
+                "sku": "110240"
+              },
+              {
+                "sizeCode": "regular",
+                "name": "Room",
+                "sku": "110237"
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ]
